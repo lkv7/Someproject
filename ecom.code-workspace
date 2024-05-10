@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/Python/2GIS_parser"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.terminal.activateEnvInCurrentTerminal": true
+	}
+}
